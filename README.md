@@ -1,2 +1,2 @@
 # DeepRLBootcamp
-learning materials for Deep RL
+Learning materials for Deep RL Bootcamp Berkeley 17
